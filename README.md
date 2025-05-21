@@ -2,7 +2,7 @@
 
 - Class Date: May 21 -22
 - Facilitator: @Padma
-
+# comment change from James
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
